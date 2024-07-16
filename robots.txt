@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rockenton.github.io/sitemap
+Sitemap: https://rockenton.github.io/app/sitemap
+Sitemap: https://rockenton.github.io/assets/sitemap
+Sitemap: https://rockenton.github.io/css/sitemap
+Sitemap: https://rockenton.github.io/includes/sitemap
+Sitemap: https://rockenton.github.io/item/sitemap
+Sitemap: https://rockenton.github.io/src/sitemap
